@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#Rtext{
+    
+}
+img {
+    width: 200px;
+    height: 200px;
+    float: relative;
+}
